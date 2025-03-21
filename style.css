@@ -841,11 +841,11 @@ footer h1{
         margin-bottom: 50px;
     }
     .contact-section .section-title{
-         top: -17%;                                                  /*changed from 40 */
+         top: -1%;                                                  /*changed from 40 */
         left: 25%;
     }
     footer h1{
-        font-size: 15px;
+        font-size: 9px;
     }
     .project-vidbox{
         min-width: 200px;

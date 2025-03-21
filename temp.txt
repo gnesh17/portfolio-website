@@ -1,0 +1,4 @@
+Used 
+1. icons from box-icons website
+2. deployed through netlify
+3. website -> https://gnesh17.netlify.app/
